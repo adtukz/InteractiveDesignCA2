@@ -64,4 +64,4 @@ function Mover(m) {
 }
 ```
 
-[See the code in action!](index.html)
+[See the code in action!](sketch.html)

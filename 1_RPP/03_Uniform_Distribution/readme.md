@@ -43,4 +43,4 @@ for (var x = 0; x < randomCounts.length; x++) {
 
 ```
 
-[See the code in action!](index.html)
+[See the code in action!](sketch.html)

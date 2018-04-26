@@ -21,4 +21,4 @@ this.step = function () {
 }
 ```
 
-[See the Code in action!](index.html)
+[See the Code in action!](sketch.html)

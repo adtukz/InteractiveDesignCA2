@@ -29,4 +29,4 @@ function draw() {
   line(0, 0, vectorLine.x, vectorLine.y);
 }
 ```
-<img src ="img/vectors.gif"/>
+[See the code in action!](sketch.html)
