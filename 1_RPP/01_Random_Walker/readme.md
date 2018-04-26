@@ -57,4 +57,4 @@ The step function creates a random number between 0 and 4 and then floors it. Th
 
 ```
 
-[See the Code in action](index.html)
+[See the Code in action](sketch.html)
