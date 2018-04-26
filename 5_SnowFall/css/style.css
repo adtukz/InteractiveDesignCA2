@@ -1,0 +1,19 @@
+/* create background colour of page */
+body{
+	background:#dfe6e9;
+}
+/* make canvas have curved border, center it on page */
+canvas{
+	border-radius:10px;
+	margin-left:auto;
+	margin-right:auto;
+	display:block;
+}
+
+/* center h1 on the page above the canvas, give it font of arial, bigger font size and colour it. */
+h1 {
+	font-family:'Arial';
+	text-align:center;
+	font-size:5em;
+	color:#2d3436;
+}
