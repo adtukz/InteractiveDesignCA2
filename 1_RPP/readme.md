@@ -1,4 +1,4 @@
-[Home - Nature of Code](./)
+[Home - Nature of Code](../)
 
 # The Nature of Code - Randomness, Perlin Noise and Pixel Array.
 
